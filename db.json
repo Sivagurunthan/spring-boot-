@@ -1,0 +1,211 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "BCA"
+    },
+    {
+      "id": 3,
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "B-Tech"
+    },
+    {
+      "id": 4,
+      "student_name": null,
+      "student_email": null,
+      "student_branch": "B-Tech"
+    },
+    {
+      "id": 5,
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "B-Tech"
+    },
+    {
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "B-Tech",
+      "id": 6
+    },
+    {
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "B-Tech",
+      "id": 7
+    },
+    {
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "B-Tech",
+      "id": 8
+    },
+    {
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "MCA",
+      "id": 9
+    },
+    {
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "M-Tech",
+      "id": 10
+    },
+    {
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "BCA",
+      "id": 11
+    },
+    {
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "BCA",
+      "id": 12
+    },
+    {
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "M-Tech",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "student_name": "",
+      "student_email": "",
+      "student_branch": "BCA"
+    },
+    {
+      "id": 15,
+      "student_name": "",
+      "student_email": "",
+      "Student_branch": "B-Tech"
+    },
+    {
+      "id": 16,
+      "student_name": "",
+      "student_email": "",
+      "Student_branch": ""
+    },
+    {
+      "id": 17,
+      "student_name": "",
+      "student_email": "",
+      "Student_branch": ""
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20,
+      "studentName": "",
+      "studentEmail": "",
+      "studentBranch": ""
+    },
+    {
+      "id": 21,
+      "studentName": "",
+      "studentEmail": "",
+      "studentBranch": ""
+    },
+    {
+      "id": 22,
+      "studentName": "",
+      "studentEmail": "",
+      "studentBranch": ""
+    },
+    {
+      "id": 23,
+      "studentName": "",
+      "studentEmail": "",
+      "studentBranch": ""
+    },
+    {
+      "id": 24,
+      "studentName": "",
+      "studentEmail": "",
+      "studentBranch": ""
+    },
+    {
+      "id": 25,
+      "studentName": "",
+      "studentEmail": "",
+      "studentBranch": ""
+    },
+    {
+      "id": 26,
+      "studentName": "",
+      "studentEmail": "",
+      "studentBranch": ""
+    },
+    {
+      "id": 27,
+      "studentName": "",
+      "studentEmail": "",
+      "student_branch": ""
+    },
+    {
+      "id": 28,
+      "studentName": "",
+      "studentEmail": "",
+      "student_branch": ""
+    },
+    {
+      "id": 29,
+      "StudentName": "",
+      "studentEmail": "",
+      "studentBranch": ""
+    },
+    {
+      "id": 30,
+      "StudentName": null,
+      "studentEmail": null,
+      "studentBranch": null
+    },
+    {
+      "id": 31,
+      "StudentName": null,
+      "studentEmail": null,
+      "studentBranch": null
+    },
+    {
+      "id": 32,
+      "StudentName": "",
+      "studentEmail": "",
+      "studentBranch": ""
+    },
+    {
+      "id": 33,
+      "StudentName": "",
+      "studentEmail": "",
+      "studentBranch": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "StudentName": "",
+      "studentEmail": "",
+      "studentBranch": ""
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
